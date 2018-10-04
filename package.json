@@ -1,0 +1,23 @@
+{
+  "name": "log-request",
+  "version": "1.0.0",
+  "description": "Logs the request",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Qrivi/log-request"
+  },
+  "keywords": [
+    "log",
+    "request"
+  ],
+  "author": "Kristof Dewilde",
+  "license": "ISC",
+  "dependencies": {
+    "log-requests": "^1.0.4"
+  }
+}
